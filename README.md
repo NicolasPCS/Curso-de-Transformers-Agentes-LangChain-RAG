@@ -1,4 +1,4 @@
-# Diplomado en Ciencia de Datos
+# Transformers, uso de agentes, LangChain y RAG
 
 ## Departamento de Ciencias de la Computación - Universidad de Chile
 
