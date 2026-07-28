@@ -14,96 +14,43 @@ Este es el repositorio oficial del curso: **10 clases de 3 horas**, organizadas 
 
 ## Estructura del curso
 
-### Clase 1 — Transformers 🚧
+### Clase 1 — Introducción a los Transformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase01_introduccion.ipynb?hl=es) ✅
 
-<\descripcion>
+### Clase 2 — Transformers para Lenguaje Natural (LLMs) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase02_nlp.ipynb?hl=es) ✅
 
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-    - Infografías 🖼️: 
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+### Clase 3 — Transformers para Visión Computacional (ViT) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase03_vision.ipynb?hl=es) ✅
 
-### Clase 2 — Introducción a los Modelos de Lenguaje de Gran Escala 🚧
+### Clase 4 — Modelos Multimodales y Aprendizaje Auto-Supervisado [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase04_multimodal.ipynb?hl=es) ✅
 
-<\descripcion>
+### Clase 5 — Cuantización, PEFT/LoRA, QLoRA, Ollama y despliegue de LLMs ✅
 
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/clase05_cuantizacion_peft_despliegue_llms.pptx)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase05_cuantizacion_peft_despliegue_llms.ipynb?hl=es)
 
-### Clase 3 — Visión Transformers 🚧
+### Clase 6 — Aprendizaje por Contexto (In-Context Learning) ✅
 
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
-
-### Clase 4 — Modelos Multimodales 🚧
-
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
-
-### Clase 5 — Cuantización, PEFT, y despliegue de Modelos de Lenguaje de Gran Escala 🚧
-
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
-
-### Clase 6 — Aprendizaje por Contexto (In-Context Learning) 🚧
-
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/clase06_aprendizaje_por_contexto.pptx)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase06_aprendizaje_por_contexto.ipynb?hl=es)
 
 ### Clase 7 — Generación Aumentada por Recuperación (RAG - Retrieval Augmented Generation) 🚧
 
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ### Clase 8 — RAG con Grafos y Knowledge Graphs (Graph RAG) 🚧
 
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ### Clase 9 — Agentes 🚧
 
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/clase09_agentes.pptx)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ### Clase 10 — Model Context Protocol (MCP) 🚧
 
-<\descripcion>
-
-- **Clase 1 · Teoría** — Del perceptrón a los Transformers
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-- **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
+- **Teoría** — [Presentación](Slides/clase10_mcp.pptx)
+- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ---
 
