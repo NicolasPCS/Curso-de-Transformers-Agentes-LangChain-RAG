@@ -34,8 +34,9 @@ Este es el repositorio oficial del curso: **10 clases de 3 horas**, organizadas 
 
 ### Clase 7 — Generación Aumentada por Recuperación (RAG - Retrieval Augmented Generation) 🚧
 
-- **Teoría** — [Presentación](Slides/)
-- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- **Teoría** — [Presentación](Slides/Clase_7_RAG.pdf)
+- **Práctica 1: RAG Simple** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase1_RAG_Simple.ipynb?hl=es) ✅
+- **Práctica 2: RAG Avanzado** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase2_RAG_Avanzado.ipynb?hl=es) ✅
 
 ### Clase 8 — RAG con Grafos y Knowledge Graphs (Graph RAG) 🚧
 
