@@ -40,8 +40,9 @@ Este es el repositorio oficial del curso: **10 clases de 3 horas**, organizadas 
 
 ### Clase 8 — RAG con Grafos y Knowledge Graphs (Graph RAG) 🚧
 
-- **Teoría** — [Presentación](Slides/)
-- **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- **Teoría** — [Presentación](Slides/Clase_GraphRag.pdf)
+- **Práctica 1: RAG Evaluación** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase3_Evaluacion_RAG.ipynb?hl=es)
+- **Práctica 2: Graph RAG ** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase4_GraphRAG.ipynb?hl=es) ✅
 
 ### Clase 9 — Agentes 🚧
 
