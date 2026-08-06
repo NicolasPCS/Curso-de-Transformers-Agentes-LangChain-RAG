@@ -32,17 +32,23 @@ Este es el repositorio oficial del curso: **10 clases de 3 horas**, organizadas 
 - **Teoría** — [Presentación](Slides/clase06_aprendizaje_por_contexto.pptx)
 - **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase06_aprendizaje_por_contexto.ipynb?hl=es)
 
-### Clase 7 — Generación Aumentada por Recuperación (RAG - Retrieval Augmented Generation) 🚧
+### Clase 7 — Retrieval-Augmented Generation (RAG) 
 
-- **Teoría** — [Presentación](Slides/Clase_7_RAG.pdf)
-- **Práctica 1: RAG Simple** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase1_RAG_Simple.ipynb?hl=es) ✅
-- **Práctica 2: RAG Avanzado** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase2_RAG_Avanzado.ipynb?hl=es) ✅
+Introducción a la arquitectura **Retrieval-Augmented Generation (RAG)** para combinar modelos de lenguaje con bases de conocimiento externas, permitiendo responder preguntas utilizando información específica y actualizada.
 
-### Clase 8 — RAG con Grafos y Knowledge Graphs (Graph RAG) 🚧
+- 📖 **Teoría** — [Presentación](Slides/Clase_7_RAG.pdf)
+- 💻 **Práctica 1: RAG Básico** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase1_RAG_Simple.ipynb?hl=es) ✅
+- 💻 **Práctica 2: RAG Avanzado** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase2_RAG_Avanzado.ipynb?hl=es) ✅
 
-- **Teoría** — [Presentación](Slides/Clase_GraphRag.pdf)
-- **Práctica 1: RAG Evaluación** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase3_Evaluacion_RAG.ipynb?hl=es)
-- **Práctica 2: Graph RAG ** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase4_GraphRAG.ipynb?hl=es) ✅
+---
+
+### Clase 8 — Graph RAG y Knowledge Graphs 
+
+Extensión de RAG mediante **Knowledge Graphs** para mejorar la recuperación de información y la capacidad de razonamiento, junto con técnicas para evaluar sistemas RAG.
+
+- 📖 **Teoría** — [Presentación](Slides/Clase_GraphRag.pdf)
+- 💻 **Práctica 1: Evaluación de Sistemas RAG** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase3_Evaluacion_RAG.ipynb?hl=es) ✅
+- 💻 **Práctica 2: Graph RAG** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase4_GraphRAG.ipynb?hl=es) ✅
 
 ### Clase 9 — Agentes 🚧
 
