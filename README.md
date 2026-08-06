@@ -40,7 +40,6 @@ Introducción a la arquitectura **Retrieval-Augmented Generation (RAG)** para co
 - 💻 **Práctica 1: RAG Básico** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase1_RAG_Simple.ipynb?hl=es) ✅
 - 💻 **Práctica 2: RAG Avanzado** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/Clase2_RAG_Avanzado.ipynb?hl=es) ✅
 
----
 
 ### Clase 8 — Graph RAG y Knowledge Graphs 
 
