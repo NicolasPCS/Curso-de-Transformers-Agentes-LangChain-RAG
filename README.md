@@ -34,14 +34,14 @@ Introducción a modelos **multimodales** y aprendizaje auto-supervisado para com
 
 Técnicas para hacer LLMs más eficientes mediante **cuantización, PEFT, LoRA y QLoRA**, junto con opciones de inferencia local y despliegue práctico.
 
-- 📖 **Teoría** — [Presentación](Slides/clase05_cuantizacion_peft_despliegue_llms.pdf)
+- 📖 **Teoría** — [Presentación](Slides/Clase05_cuantizacion_peft_despliegue_llms.pdf)
 - 💻 **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase05_cuantizacion_peft_despliegue_llms.ipynb?hl=es)
 
 ### Clase 6 — Aprendizaje por Contexto (In-Context Learning) ✅
 
 Diseño de prompts y técnicas de **aprendizaje por contexto**, incluyendo zero-shot, few-shot, razonamiento guiado, autoconsistencia y salidas estructuradas.
 
-- 📖 **Teoría** — [Presentación](Slides/clase06_aprendizaje_por_contexto.pdf)
+- 📖 **Teoría** — [Presentación](Slides/Clase06_aprendizaje_por_contexto.pdf)
 - 💻 **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase06_aprendizaje_por_contexto.ipynb?hl=es)
 
 ### Clase 7 — Retrieval-Augmented Generation (RAG) ✅
@@ -65,14 +65,14 @@ Extensión de RAG mediante **Knowledge Graphs** para mejorar la recuperación de
 
 Construcción de **agentes con herramientas**, memoria y conexión a datos externos, enfatizando validación, trazabilidad y acciones con confirmación humana.
 
-- 📖 **Teoría** — [Presentación](Slides/clase09_agentes.pdf)
+- 📖 **Teoría** — [Presentación](Slides/Clase09_agentes.pdf)
 - 💻 **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase09_agentes_firebase.ipynb)
 
 ### Clase 10 — Model Context Protocol (MCP) ✅
 
 Introducción a **Model Context Protocol (MCP)** para exponer tools, resources y prompts mediante un protocolo estándar, usando transportes como `stdio` y Streamable HTTP.
 
-- 📖 **Teoría** — [Presentación](Slides/clase10_mcp.pdf)
+- 📖 **Teoría** — [Presentación](Slides/Clase10_mcp.pdf)
 - 💻 **Práctica** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasPCS/Curso-de-Transformers-Agentes-LangChain-RAG/blob/main/Notebooks/clase10_mcp_servidor_herramientas.ipynb)
 
 ---
